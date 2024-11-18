@@ -1,3 +1,6 @@
+project:
+~/OneDrive/Documents/NetBeansProjects/A Project HMS 
+
 echo "# Garment-with-Java" >> README.md
 git init
 git add README.md
